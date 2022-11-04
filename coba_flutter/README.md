@@ -1,6 +1,6 @@
 # coba_flutter
 
-A new Flutter project. V1
+A new Flutter project. V1 V2
 
 ## Getting Started
 
